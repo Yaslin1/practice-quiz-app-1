@@ -1,0 +1,99 @@
+[
+    {
+        "id":1,
+        "question": "What is the capital of France?",
+        "options": [
+            {
+                "answer": "Paris",
+                "isCorrect": true
+            },
+
+            {
+                "answer": "New York",
+                "isCorrect": false
+            },
+            {
+                "answer": "Dublin",
+                "isCorrect": false
+            },
+            {
+                "answer": "London",
+                "isCorrect": false
+            }
+
+        ]
+    },
+    {
+        "id":2,
+        "question": "What does 'www' stand for in a website browser?",
+        "options": [
+            {
+                "answer": "Word With Web",
+                "isCorrect": false
+            },
+
+            {
+                "answer": "With War Web",
+                "isCorrect": false
+            },
+            {
+                "answer": "Website with Web",
+                "isCorrect": false
+            },
+            {
+                "answer": "World Wide Web",
+                "isCorrect": true
+            }
+
+        ]
+    },
+    {
+        "id":1,
+        "question": "How long is an Olympic swimming pool (in meters)?",
+        "options": [
+            {
+                "answer": "100 meters",
+                "isCorrect": false
+            },
+
+            {
+                "answer": "50 metes",
+                "isCorrect": true
+            },
+            {
+                "answer": "40 metes",
+                "isCorrect": false
+            },
+            {
+                "answer": "60 meters",
+                "isCorrect": false
+            }
+
+        ]
+    },
+    {
+        "id":1,
+        "question": "How many languages are written from right to left?",
+        "options": [
+            {
+                "answer": "12",
+                "isCorrect": true
+            },
+
+            {
+                "answer": "40",
+                "isCorrect": false
+            },
+            {
+                "answer": "23",
+                "isCorrect": false
+            },
+            {
+                "answer": "38",
+                "isCorrect": false
+            }
+
+        ]
+    }
+
+]
